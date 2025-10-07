@@ -1,0 +1,8 @@
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/install-android/lib/libjansson.so
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/install-android/include/jansson_config.h
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/install-android/include/jansson.h
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/install-android/lib/pkgconfig/jansson.pc
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/install-android/lib/cmake/jansson/janssonConfig.cmake
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/install-android/lib/cmake/jansson/janssonConfigVersion.cmake
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/install-android/lib/cmake/jansson/janssonTargets.cmake
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/install-android/lib/cmake/jansson/janssonTargets-release.cmake

@@ -1,0 +1,7 @@
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/build-android-cmake/CMakeFiles/jansson.dir
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/build-android-cmake/CMakeFiles/edit_cache.dir
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/build-android-cmake/CMakeFiles/rebuild_cache.dir
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/build-android-cmake/CMakeFiles/list_install_components.dir
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/build-android-cmake/CMakeFiles/install.dir
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/build-android-cmake/CMakeFiles/install/local.dir
+/home/flightwave_developer/qgroundcontrol/libs/jansson_android/jansson/build-android-cmake/CMakeFiles/install/strip.dir
